@@ -21,8 +21,8 @@ const musicArray=[
         id: '2',
         artistName: 'Taylor Swift ',
         artistMusic: 'coney island',
-        img: 'img/taylor.jpg',
-        musicImg: 'img/taylor.jpg',
+        img: 'img/taylor4.jpg',
+        musicImg: 'img/taylor4.jpg',
         time: '4:35',
         src: 'Audio/09 coney island (feat. The National).m4a'
     },
